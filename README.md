@@ -1,5 +1,11 @@
 # TypingGame
 
+Small typing app to practice and learn Angular. It's using bulma for styling and faker library to generate random sentences.
+
+Topics: handle input, property binding, event binding, CSS classes, structural directives:ngIf, ngFor, use index inside ngFor.
+
+Compare every letter of the generated sentence with the typed letter in the input field and style it accordingly.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.8.
 
 ## Development server
